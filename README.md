@@ -177,7 +177,6 @@ insurance-eda-dashboard/
 **[Jonatan Gabriel Carbajal Carmen]**  
 Especialización en Python for Analytics — DMC Institute  
 📧 jonatancarbajal19@gmail.com
-🔗 [LinkedIn](#) | [GitHub](#)
 
 ---
 
