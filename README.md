@@ -162,7 +162,7 @@ insurance-eda-dashboard/
 
 ## Captura de Aplicación
 
-![Interfaz de Aplicación](https://github.com/JoGCarC/practica_fin/blob/main/c1.png?raw=true)
+-  **Interfaz de la app:** (https://github.com/JoGCarC/practica_fin/blob/main/c1.png?raw=true)
 
 
 ## 👤 Autor
