@@ -1,4 +1,4 @@
-<img width="465" height="491" alt="image" src="https://github.com/user-attachments/assets/73bf6753-36a2-479f-9fc7-7c79efa1daed" /># 🛡️ Insurance Company — EDA Dashboard
+# 🛡️ Insurance Company — EDA Dashboard
 
 > **Caso de Estudio N°3 — Especialización en Python for Analytics**  
 > MSc. Carlos Carrillo Villavicencio · DMC Institute · 2026
