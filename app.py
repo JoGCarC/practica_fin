@@ -50,7 +50,7 @@ st.markdown("""
     [data-testid="stSidebar"] { background-color: #0d1b2a; }
     [data-testid="stSidebar"] * { color: #e0e0e0 !important; }
     /* Métricas */
-    [data-testid="stMetric"] { background:#f0f4f8; border-radius:8px; padding:8px; }
+    [data-testid="stMetric"] { background:#26c6da; border-radius:8px; padding:8px; }
     /* Títulos de sección */
     .section-title { font-size:1.3rem; font-weight:700;
                      border-left:4px solid #2E86AB;
