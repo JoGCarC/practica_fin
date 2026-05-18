@@ -100,14 +100,14 @@ class DataAnalyzer:
 3. **Hacer click en "New app"**
 
 4. **Configurar:**
-   - Repository: `jogcarc/practica_fin`
+   - Repository: `https://github.com/JoGCarC/practica_fin`
    - Branch: `main`
    - Main file path: `app.py`
 
 5. **Hacer click en "Deploy!"**
 
 6. En ~2 minutos la app estará disponible en:  
-   `https://https://practica_fin-jgcc.streamlit.app/`
+   `https://practicafin.streamlit.app/`
 
 ---
 
@@ -159,6 +159,11 @@ insurance-eda-dashboard/
 - 🐼 **Pandas Docs:** https://pandas.pydata.org/docs/
 
 ---
+
+## Captura de Aplicación
+
+![Interfaz de Aplicación](https://github.com/JoGCarC/practica_fin/blob/main/c1.png?raw=true)
+
 
 ## 👤 Autor
 
