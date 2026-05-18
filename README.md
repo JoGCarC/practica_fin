@@ -167,8 +167,8 @@ insurance-eda-dashboard/
 -  **EDA - Información General:** ![Interfaz de Aplicación](https://github.com/JoGCarC/practica_fin/blob/main/c3.png?raw=true)
 -  **EDA - Distribuciones:** ![Interfaz de Aplicación](https://github.com/JoGCarC/practica_fin/blob/main/c4.png?raw=true)
 -  **EDA - Bivariado:** ![Interfaz de Aplicación](https://github.com/JoGCarC/practica_fin/blob/main/c5.png?raw=true)
--  **EDA - Análisis Dinámico** ![Interfaz de Aplicación](https://github.com/JoGCarC/practica_fin/blob/main/c1.png?raw=true)
--  **Conclusiones:** ![Interfaz de Aplicación](https://github.com/JoGCarC/practica_fin/blob/main/c1.png?raw=true)
+-  **EDA - Análisis Dinámico** ![Interfaz de Aplicación](https://github.com/JoGCarC/practica_fin/blob/main/c6.png?raw=true)
+-  **Conclusiones:** ![Interfaz de Aplicación](https://github.com/JoGCarC/practica_fin/blob/main/c7.png?raw=true)
 
 ---
 
