@@ -1,9 +1,9 @@
 # =============================================================================
 # app.py — Insurance Company EDA Dashboard
 # Especialización en Python for Analytics — Caso de Estudio N°3
-# Autor : [Tu Nombre Completo]
+# Autor : Jonatan Gabriel Carbajal Carmen
 # Curso : Especialización en Python for Analytics
-# Año   : 2025
+# Año   : 2026
 # =============================================================================
 # Descripción:
 #   Aplicación interactiva construida con Streamlit para el Análisis
