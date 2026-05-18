@@ -520,7 +520,7 @@ def render_home() -> None:
         st.markdown("""
 | Campo | Detalle |
 |---|---|
-| **Autor** | [Tu Nombre Completo] |
+| **Autor** | Jonatan Gabriel Carbajal Carmen|
 | **Curso** | Especialización en Python for Analytics |
 | **Institución** | DMC Institute |
 | **Docente** | MSc. Carlos Carrillo Villavicencio |
@@ -569,7 +569,7 @@ def render_home() -> None:
             with tech_cols[i % 3]:
                 st.markdown(
                     f"<div style='text-align:center;padding:8px;"
-                    f"background:#f0f4f8;border-radius:8px;margin:4px;'>"
+                    f"background:#109dfa;border-radius:8px;margin:4px;'>"
                     f"{icon}<br><small><b>{name}</b></small></div>",
                     unsafe_allow_html=True
                 )
