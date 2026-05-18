@@ -524,7 +524,7 @@ def render_home() -> None:
 | **Curso** | Especialización en Python for Analytics |
 | **Institución** | DMC Institute |
 | **Docente** | MSc. Carlos Carrillo Villavicencio |
-| **Año** | 2025 |
+| **Año** | 2026 |
         """)
 
         st.markdown('<div class="section-title">🎯 Objetivo del Análisis</div>',
