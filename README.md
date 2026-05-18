@@ -1,4 +1,4 @@
-# 🛡️ Insurance Company — EDA Dashboard
+<img width="465" height="491" alt="image" src="https://github.com/user-attachments/assets/73bf6753-36a2-479f-9fc7-7c79efa1daed" /># 🛡️ Insurance Company — EDA Dashboard
 
 > **Caso de Estudio N°3 — Especialización en Python for Analytics**  
 > MSc. Carlos Carrillo Villavicencio · DMC Institute · 2026
@@ -75,50 +75,6 @@ class DataAnalyzer:
 
 ---
 
-## 🚀 Instrucciones de Ejecución Local
-
-### 1. Clonar el repositorio
-
-```bash
-git clone https://github.com/TU_USUARIO/insurance-eda-dashboard.git
-cd insurance-eda-dashboard
-```
-
-### 2. Crear entorno virtual
-
-```bash
-# Con conda (recomendado)
-conda create -n insurance_eda python=3.11
-conda activate insurance_eda
-
-# O con venv
-python -m venv .venv
-source .venv/bin/activate        # Linux/macOS
-.venv\Scripts\activate           # Windows
-```
-
-### 3. Instalar dependencias
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Ejecutar la aplicación
-
-```bash
-streamlit run app.py
-```
-
-La app se abrirá automáticamente en `http://localhost:8501`
-
-### 5. Cargar el dataset
-
-Una vez abierta la app:
-1. Ir al módulo **📂 Carga del Dataset** en el sidebar
-2. Hacer click en **"Browse files"**
-3. Seleccionar `InsuranceCompany.csv`
-4. Navegar al módulo **🔍 EDA**
-
 ---
 ################################################################
 ## ☁️ Despliegue en Streamlit Cloud
@@ -144,14 +100,14 @@ Una vez abierta la app:
 3. **Hacer click en "New app"**
 
 4. **Configurar:**
-   - Repository: `TU_USUARIO/insurance-eda-dashboard`
+   - Repository: `jogcarc/practica_fin`
    - Branch: `main`
    - Main file path: `app.py`
 
 5. **Hacer click en "Deploy!"**
 
 6. En ~2 minutos la app estará disponible en:  
-   `https://TU_USUARIO-insurance-eda-dashboard-app-XXXXX.streamlit.app`
+   `https://https://practica_fin-jgcc.streamlit.app/`
 
 ---
 
@@ -206,9 +162,9 @@ insurance-eda-dashboard/
 
 ## 👤 Autor
 
-**[JONASS]**  
+**[Jonatan Gabriel Carbajal Carmen]**  
 Especialización en Python for Analytics — DMC Institute  
-📧 jonass@eyatusabe.com  
+📧 jonatancarbajal19@gmail.com
 🔗 [LinkedIn](#) | [GitHub](#)
 
 ---
